@@ -1,0 +1,358 @@
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Anjok07__ultimatevocalremovergui__a5f88453bfb2b38b05a965bcf67727243e0cbf19__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Arize-ai__phoenix__363e8913a3a0f7dafca5dc6bba6bf0e9776c1158__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Arize-ai__phoenix__464a60fd3c24aaed780cea3f2e0e437d3c8ba037__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Chia-Network__chia-blockchain__f18f95d6637836d480427305a8e011201ebb0efd__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "CorentinJ__Real-Time-Voice-Cloning__890f3a03187195b9829db2079b75c2ba2ab0405c__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Dao-AILab__flash-attention__1a2c3e8c25251fa30ebee074c27ecbf69c2bad2b__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Dao-AILab__flash-attention__8fde8bf777db37222ca6e684df7744c47926d577__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "EleutherAI__lm-evaluation-harness__83e1a1166cb2df68accf353737e1d0450a719517__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "EstrellaXD__Auto_Bangumi__ff8b8585928dbca8c7c1f1ee33e19b368deb4193__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "FoundationVision__ByteTrack__d1bf0191adff59bc8fcfeaa0b33d3d1642552a99__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "FoundationVision__ByteTrack__d1bf0191adff59bc8fcfeaa0b33d3d1642552a99__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Guovin__iptv-api__1d50f33d464c7bb4262148c7853a377942bf0d10__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "tensorflow", "pattern": 3, "receipt": "Hironsan__BossSensor__a6b50b7e9796aa69acaa246d7ca77425d3042004__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "0.10.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "HumanSignal__label-studio__2d5b6834fd8e2d0c4eb47ae48c7747598c80a073__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "IDSIA__sacred__6569165b1c9b46531bff7ed35895378ddca5c754__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "IceWhaleTech__CasaOS__0d3b2f444ec0193193cf03eef6d43c6e35b0183e__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "IrisRainbowNeko__genshin_auto_fish__a3596a005e7b06e63fb4630e82cba7654def86c1__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "IrisRainbowNeko__genshin_auto_fish__b78a9559ba6c58f6d63d3c7b52ae083e5349fe2d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "JerBouma__FinanceDatabase__a981dddcd89f33a7310336fc0d7c21b669c7e3f5__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "JoeanAmier__TikTokDownloader__f766a6eff25b76fe4d737f10c27258e4da65df7d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Jrohy__multi-v2ray__208885845e5042cf5f3a0c8585aac63223480e9a__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Jrohy__multi-v2ray__51138b349a3245636a4cdf67685e97e4dcd89b66__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "ring", "pattern": 15, "receipt": "Keats__jsonwebtoken__634d75e8fa3d3fbe9ddc116b1ac548fbf1d4fec4__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.6"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Lightning-AI__pytorch-lightning__73e06fd7c8c221fecff3abe72440b0358f34c154__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "MVIG-SJTU__AlphaPose__7be98097f34594ad8bf22f06c9da2b8d3059c5cc__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "MVIG-SJTU__AlphaPose__c60106d19afb443e964df6f06ed1842962f5f1f7__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "MagicStack__asyncpg__13b01910da3fe01b8241c31cc86eccb1301a2d39__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "MagicStack__asyncpg__45f0e2ab019feab70473bbb0797698dda87d09e7__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "MechanicalSoup__MechanicalSoup__345b3a02f173fd608c75ae508345b583705852df__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "MechanicalSoup__MechanicalSoup__385962b0b091b7dc99938435874d4651c7cc7d04__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "NVIDIA__Megatron-LM__43529f78869d5f1f0e25839fbe2cbd040e17ec66__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "NVIDIA__apex__0ce8ad3ee0cc21bffe2d799bad2cd2801e96ac29__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "NVIDIA__apex__575968bc1f9127ccd61003a681472a83af4ff1a1__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Nixtla__statsforecast__71120c1d9173a171c57644bd427aa9cdabc1f98f__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "OlafenwaMoses__ImageAI__2156d1a39a196c72057771d1d16226388c1d7baf__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "PaddlePaddle__PaddleOCR__12e128f9fd24e54e9fe1bc3a784204d847e30b6e__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "PaddlePaddle__PaddleSeg__c7e1b390b28746c77708183d2ff52dbf684331d5__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "PaddlePaddle__PaddleSpeech__a76fc692123e97e5f183c3a00e30b7f2e2d3f07c__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "PistonDevelopers__conrod__935ee46b45fd33a68ae43cb87b1b83da7e6e51e4__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.2.2"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "PistonDevelopers__dyon__bd52a5bdfa246247fb1ffb88ff8a84aba10897b2__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.9"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Project-MONAI__MONAI__0c2411e3116be44608327779035fd7f10c3889a2__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "RapidAI__RapidOCR__6c806149ab4ec781beee3e8301f5438db4a1e30e__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "ReFirmLabs__binwalk__b3002561b3625a0a3ad50cf25d958e2aca0842aa__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "crypto-mac", "pattern": 15, "receipt": "RustCrypto__hashes__1c790602ff5f334d5ad8fa1a812409c63d527a21__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.5"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Sanster__IOPaint__6cfc7c30f1d6428c02e21d153048381923498cac__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "Smithay__smithay__039c86d99e2609e11178e8a79b374cb2b1336ee2__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.7.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Stability-AI__generative-models__1659a1c09b0953ad9cc0d480f42e4526c5575b37__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Stability-AI__generative-models__e8cd657656fa5d61688191730d0e03242bf4ed44__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "The-Vibe-Company__quivr__d835fc6e4c062bd485a715bc707a902493e092c2__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "TheWaWaR__simple-http-server__6485b75ea1a8417ddaaaf42c87700904c30e69e4__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.9"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Uberi__speech_recognition__5c82511a7270844a7ab3269b5c6931be9e9ed7c7__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Ultimaker__Cura__82b5bbc283d0476d3fbddf8f199211a7a1aaa9d9__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Yelp__dumb-init__85035d96dd6b8908ea0e0902a368fd8a0d350f44__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "Yelp__dumb-init__bdac09339e2ed61e2839810966cc22e440388fa1__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "a-b-street__abstreet__87a2c82ba6c42423742bc546f478c5777bed9c76__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.7"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "abus-aikorea__voice-pro__7231384f797091dc0d6d0470360fc6fcc2095d0c__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "abus-aikorea__voice-pro__b242c3ff9cedcff27a63401ad6ee522b51f789d7__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "adamchainz__django-cors-headers__f29630d74eb3292bc6fd76e240a83188e17b9f6d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "agent0ai__agent-zero__99a2a94813f867a5003c8e79d340d35017b543fb__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "npm", "failure_class": "TOOLCHAIN-UNAVAILABLE", "name": "string-width-cjs", "pattern": 6, "receipt": "akveo__ngx-admin__dc6a442704bfef34b776b5eb15faf852d9e2f75c__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "4.2.3"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "albumentations-team__albumentations__66212d77a44927a29d6a0e81621d3c27afbd929c__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "albumentations-team__albumentations__c5807e1de6f7bbb31be6bc8c936526a513ff63da__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "aleju__imgaug__0101108d4fed06bc5056c4a03e2bcb0216dac326__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "aleju__imgaug__558f0017773b228df915c5cf66d2a9d63478f35d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "alirezamika__autoscraper__68a818158c673bf320a8569da10a8b979c1d23fe__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "alirezamika__autoscraper__973ba6abed840d16907a556bc0192e2bf4806c6d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "allenai__allennlp__80fb6061e568cb9d6ab5d45b661e86eb61b92c82__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "tokio-tungstenite", "pattern": 16, "receipt": "alvr-org__ALVR__b62ca8a4028bd0ce5893415942fd6d258590dc46__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "amethyst__amethyst__33c8561a389a5a715106b014853363e4f62de446__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.3.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "anthropics__claude-quickstarts__2eb3b14acac671c215f3cff3903a433cc5efba38__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "anthropics__claude-quickstarts__4a4224bdf0e9cfb3332167b69c90457403813625__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "fragile", "pattern": 15, "receipt": "antoyo__relm__92f0c9f6e61994eee76df6d8704f6c7717fe5ef0__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.3"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "apache__airflow__2e541862b7fc40d61b603cb01a06d3ef731e605d__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "npm", "failure_class": "OTHER", "name": "zrender", "pattern": 6, "receipt": "apache__echarts__589851981167e95088b05ff1613f9725b66ed1fd__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "~2.0.6"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "apache__superset__a0d103dac33201b55b2587d10d11f293bed0a0e7__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "apple-aiml-research__ml-stable-diffusion__7449ce46a4b23c94413b714704202e4ea4c55080__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "apple-aiml-research__ml-stable-diffusion__ea2805dc1945be20561c77e5f6d1d9a5a637cda2__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "argilla-io__argilla__a7a47c4d761bdd652911695928d55361579a22ac__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "ash-rs__ash__bfd05ea8e9f0d2dab8e342cf1a8fdbcdb18e2d47__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.7"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "ring", "pattern": 15, "receipt": "askama-rs__askama-old__44713cef07b4a7d6050fe6b040f3d22f89631544__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.11.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "asweigart__pyautogui__5d06eaa8c09f1f2d14d536e4a5d0d15dc6dfcdbe__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "automl__auto-sklearn__9a62e98e14c1ad88b29baee3e5ba55cb45ac7aec__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "baowenbo__DAIN__7c727aca56760f8f1a57ffb603c8c0b0fd1b1349__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "baowenbo__DAIN__e48881ab3a3a5d8ec4917f0ebc5250ac624e6d4d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "bayesian-optimization__BayesianOptimization__ec451235ec4c4c8782d7d10a83a59311c1937aa9__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "bbfamily__abu__8d9e7bdcee8eeab562ec6e570e966ac7d6176d3f__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "benawad__dogehouse__584055ad407bc37fa35cdf36ebb271622e29d436__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "benawad__dogehouse__584055ad407bc37fa35cdf36ebb271622e29d436__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "bigscience-workshop__petals__d59c15c5787488005f12162a40930dd284551e02__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "biolab__orange3__fb56027410ea28b2a3dffacb7db9ecafa29c981c__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "bitsandbytes-foundation__bitsandbytes__ed17aa9a31a5e38986d596e5fa845a75c3e00264__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "borgbackup__borg__f043b966dae7ca6e6cb0257a215723400dbd19ca__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "brianshea2__addr__ff66153b6b9db57b02f2a8c433106ee3e4b171bc__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "bridgecrewio__checkov__d56d27cbec7aa59ae4587241c15eb3339187a442__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "browser-use__browser-use__6b4ed25347a5999297e3ff3df88edd1cb8bbaa57__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "brson__stdx__7ccaf39c53d5b1e130abac64a679a1aed26be4a6__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "^0.1.13"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "brycedrennan__imaginAIry__77c4b85037f9459395e5f71a64bff2be9edc9598__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "camel-ai__camel__123f0c60f6efce7b420d6de2c3e046adb1f2cacc__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "acme", "pattern": 3, "receipt": "certbot__certbot__b5828d92ad2c33d58ab9b24c9a6e42c1f4265200__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "0.2.0.dev0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "chai2010__advanced-go-programming-book__16a588e5721565f28f466ce150b7972f788dcf19__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "chai2010__advanced-go-programming-book__4447d098a22be363b6d3f1c202b6f887982962dd__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "chainer__chainer__a8e15cbe55a90854a3918b8b5a976abbbff9ec94__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "chainer__chainer__b151873e5cd20d911969cdadbc83be2b8ea828ca__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "npm", "failure_class": "OTHER", "name": "vue-loader-v16", "pattern": 6, "receipt": "checkly__headless-recorder__4fb93c125f40bceb2dd9aac403e200a3ade5a8d9__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "16.8.3"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "chidiwilliams__buzz__2b839c35cbed92f2916dcdc352a3606ac77957b6__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "chyroc__WechatSogou__5aa0f9d5a64bbb568908a1068474a51e74a080c2__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "linux-loader", "pattern": 16, "receipt": "cloud-hypervisor__cloud-hypervisor__aaa364a9c5bcbb4c135b8e82e53f441646336dcb__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "cockroachdb__cockroach__d30c905fff79ef825adc96bcc647f1872a90f2ff__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "confident-ai__deepeval__75b97a83a176df60beaf6491ccc4ce5315433cfb__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "coqui-ai__TTS__61874bc0a0c703df56b55e51b9d67784575f93f9__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "wad", "pattern": 14, "receipt": "cristicbz__rust-doom__52461ec3f94b970524ccd06e0bbee8743e67068d__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "cupy__cupy__77adca0604eb2819f84689d42c217a7d11373a36__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "npm", "failure_class": "TOOLCHAIN-UNAVAILABLE", "name": "vue-loader-v16", "pattern": 6, "receipt": "d2-projects__d2-admin__35d7aa1fc1fc8a9f35c707993fc7370393a41a48__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "16.8.3"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "d2l-ai__d2l-en__23d7a5aecceee57d1292c56e90cce307f183bb0a__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "d2l-ai__d2l-zh__e6b18ccea71451a55fcd861d7b96fddf2587b09a__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "darknessomi__musicbox__6c0debb3b9313e59eacc483fd473456b02535e7d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "datalab-to__marker__71dd5fd7e51ab24f8624b6ba2fcb6014b4e40ed4__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "datalab-to__surya__9016f4211d9027c34dd40c2a6379ef5aa2baf002__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "openpyxl", "pattern": 3, "receipt": "dbt-labs__dbt__598aeeb4df0491ee659546904c16312bb98e1057__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "2.2.0b1"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "deepchem__deepchem__a0cfa0dea801926c26924766b0dec0579d4d116f__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "deepset-ai__haystack__0ad74747ffd7d9f9b092db97ba2e222080992c2e__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "syn", "pattern": 15, "receipt": "diesel-rs__diesel__e249061820a72b47658282612455e520edec09bc__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.10.3"}
+{"ecosystem": "npm", "failure_class": "DEP-VERSION-CONFLICT", "name": "uws", "pattern": 6, "receipt": "discordjs__discord__3b9b06227e3483ebd6a690e72e5b2dd4197fa517__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.12.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "dmunozv04__iSponsorBlockTV__6a73a2d9e590f0cc7684036ca8fbf26812ceca0a__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "dmunozv04__iSponsorBlockTV__c3fd67df276edd426bef6130fc040d121dabbe31__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "docker__docker-py__6a63cb2c963428dae34adebb8660deaedbe231c9__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "docling-project__docling__896f2fd973d0b0b43b2adfd73e2f51c75210ddd2__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "donnemartin__interactive-coding-challenges__3d49bb1d43f6cd5c81ba99df93304a64588037e7__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "dpgaspar__Flask-AppBuilder__a0fe4307916a17e6c917f6730899ea3879818a48__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "drivendataorg__cookiecutter-data-science__17c991b0b03668f6e36503a4416202900196f501__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "eduardolat__pgbackweb__083b70e791911b1f8e7223ad5895b1ae5c437a50__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "eduardolat__pgbackweb__70e0d9e4a6952f7f939b415cedd7897233462f24__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "atomic-polyfill", "pattern": 15, "receipt": "embassy-rs__embassy__dafc4c54e98422a87a1f7b46edfca2736cfe116d__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.5"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "erikbern__ann-benchmarks__e41147d7cca96f69ced2b16f32c7ea57934bd36e__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "espnet__espnet__9b65daf529dfc5d71cf0321ab00998fdd22d00f6__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "eternnoir__pyTelegramBotAPI__469eece4f84f917195b40bbe9daf428443a64d8b__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "evershopcommerce__evershop__c82082706fec2bcd0010a37ed45da1c38487f89e__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__AnimatedDrawings__b859684857519c7424da51a0b0862fbd1fd258f4__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__AnimatedDrawings__d7dc4060c9d781020ccafcbc7cc67eca03b1530a__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__Detectron__04155a01a6ea68f22ac27c79a822066457941ece__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__Detectron__7c0ad88fc0d33cf0f698a3554ee842262d27babf__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__Kats__a6b7e885c62e670ea98ec3b503a7c4f9cdf40c0a__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__Kats__e2d10d5235e137faff612c2432bb02943a407da4__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__ParlAI__a29567f7ce76992fd1f03c51ba9e3b155a37ea51__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__detectron2__176a81ae0a05349f624bbfe80c2d99dfca8e94ea__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__detectron2__247691a1c292654867deb35cabb27f18d75a1363__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__maskrcnn-benchmark__57eec25b75144d9fb1a6857f32553e1574177daf__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__maskrcnn-benchmark__57eec25b75144d9fb1a6857f32553e1574177daf__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__pytorch3d__0ba55a83ad102d7ab5d0e91941612b0092e96daf__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__pytorch3d__e4ad6e5687a360ccdc6ebd91348e8dbbac97bf31__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "facebookresearch__xformers__e163309908ed7a76847ce46c79b238b49fd7d341__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "esaxx-rs", "pattern": 16, "receipt": "fastrepl__anarlog__bd3abaebb3a503cec34383c5a85df26cca7902e9__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "firerpa__lamda__2d162ab1b33ff64f42b4dadb9a60108728b18f3c__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "flwrlabs__flower__509bdca21c106051d256bf0e091789aac15fd329__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "formatjs__formatjs__4a380b6a6b364499434c3adf284d77e37ca9704f__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "fossasia__visdom__9caf4dc63afb78a8540ae7bce035a9210a46b689__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "frappe__hrms__cfc3f99bfa59d547f4e540ac6cca3f20e06d1c14__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "frappe__hrms__f935cb3073e67ba169f404c2a551f38140fd966b__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "frenck__awesome-home-assistant__84ebf0549d4cfb149982390a360d1a1995dfc609__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "gabdube__native-windows-gui__a6c96e8de5d01fe7bb566d737622dfead3cd1aed__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "^0.3.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "gdy666__lucky__4f2ab33c6e17082e07f234443cdd5c1ad2f24a73__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "gdy666__lucky__bf8ef144993433c38fcc6f9360bc09f09fd9a23f__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "geldata__gel__55d2acf189079d31808588a12f5dc9624fc8d65e__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "sosistab", "pattern": 14, "receipt": "geph-official__geph4-client__42c7e9ccf44e0c104f50432105fca0a5ea03a57e__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "getzep__graphiti__024b83679e48e41d59a7d1714ac0870aff2e4676__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "getzep__graphiti__1f8805924f6efaed9c03f6f90464b70d096741fe__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "ggez__ggez__2bcd9ddbdc759e0d74e9df616026c0d471572d6e__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.3.0"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "glium__glium__47a4f1c92eb688007a14503d2c170c0468799e7f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.26"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "gogf__gf__e4a7e23c4614dc8e3359b6471dd3d3698540e896__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "goharbor__harbor__3852755e06aa621ebfc7b665545de1e7d0032b47__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "google__gvisor__200cf245c4ed43d8e2a37484cdbc36f5fbfa1ac9__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "google__latexify_py__54dc8697196370dad227b0d516b42f6b82825852__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "google__tarpc__326f0270b966655c510acf210b8d279892682758__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "google__yapf__83bff62a7d3083136cd511ce651b3df57e823448__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "googleapis__google-api-python-client__d83246e69b22f084d1ae92da5897572a4a4eb03d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "googlemaps__google-maps-services-python__b224b4c3f3998780fc2155b726fd9106b042fda7__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "ring", "pattern": 15, "receipt": "graphql-rust__juniper__0c15c99223409c361a71ad0c73ee802a7db46e67__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.11.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "gravitl__netmaker__f382fd3bf99376e63c40092b67892cb9018ade52__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "ort", "pattern": 15, "receipt": "guillaume-be__rust-bert__6db859ef097edfdda338004b4d60deebf6a3ab66__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "^1.16.3"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "gunthercox__ChatterBot__98c560673cc670132b78a8dde0aae2f0dd35b45f__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "guofei9987__blind_watermark__322c90dc02d45644692095b34d3a6b735b6edbd8__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "guofei9987__blind_watermark__88ba12394edef0cb4905148743809dcfa500812a__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "ahrs", "pattern": 16, "receipt": "gyroflow__gyroflow__a01e9422abcc931935778a8e047c03f907148264__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "redis", "pattern": 16, "receipt": "habitat-sh__habitat__1eea4e511328625dec71cfff4289efc24f1d24b3__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "harry0703__MoneyPrinterTurbo__c235354804104665b58679223847f78c2b5e27d4__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "npm", "failure_class": "DEP-MISSING", "host": "registry.npmjs.org", "name": "@hcengineering/dev-account", "off_registry": false, "pattern": 9, "receipt": "hcengineering__platform__24ec96323ce606698b14409392e78f7540fe122b__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "hugapi__hug__e4a3fa40f98487a67351311d0da659a6c9ce88a6__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "huggingface__trl__750f5fd5329bb81c79b00243c4c8923ac14981d5__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "hummingbot__hummingbot__1a82726e1a2d08838bc5c4d8695133a424d4042a__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "hydra-ecosystem__hydra__a3e1859da4135093cd4762094ff648a789322227__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "ibis-project__ibis__6d40f963fee940063e09956c7e60d073f4302259__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "imgui-rs__imgui-rs__0254b7cbe795d9069e4f05bb9840319a6d99aef9__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.3.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "jarun__buku__7c8eab98e0cee255a109ea45c93bf8969de8f973__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "jina-ai__clip-as-service__03410570d4398084f5ca5c88ad968248e0f3fc5d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "jina-ai__serve__0f32b2aaac71d31d55de5b074196938033aaff7e__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "termion", "pattern": 16, "receipt": "jmacdonald__amp__67582722c641fa2fd0c4fe02164972ab4fbd3e99__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "joerick__pyinstrument__c5a518ca90548c153cf4e9e19fb56d32ad1d6fac__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "pypi", "failure_class": "DEP-MISSING", "name": "codecs", "pattern": 2, "receipt": "josephmisiti__awesome-machine-learning__12bc9dc1504135ba9affe5f64da74276c9142955__NOW.json", "snapshot": "NOW", "transient_before": false, "version": null}
+{"ecosystem": "pypi", "failure_class": "DEP-MISSING", "name": "codecs", "pattern": 2, "receipt": "josephmisiti__awesome-machine-learning__988e20346277a27b7e8e80c86a2a6925fab0e662__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "jumpserver__jumpserver__ea973bbb525ef1a42cd408c4c30e0aac90d3cc98__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "k0sproject__k0s__81ce2a3d3c166808b067b45aab2d4e5a38036c4a__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "ldap3_server", "pattern": 14, "receipt": "kanidm__kanidm__0f6bc36cee95b3009f3f1768590f2c49018fe99f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "torch", "pattern": 3, "receipt": "keras-team__autokeras__36909f251382ac0cae83873a745aaba57206c6db__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "0.4.1"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "keras-team__autokeras__a2446cf16edcca48ba558d70ac5345e4f30c78e1__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "keras-team__keras__91c279538054bb3885878f8e7dbafa9e6a6fdaa2__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lakesoul-io__LakeSoul__b37fef13e665a8d780e4269d49c84103a35fc15b__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lancopku__pkuseg-python__071d57c7df9ac0680edda7034b47787d7c6f9184__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lancopku__pkuseg-python__7330cd0f8b74160cecda2529fb978da4881ebcef__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lanpa__tensorboardX__1e8f6ad6fb2fc8f51fe661141db04e4c67b015e0__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "druid", "pattern": 14, "receipt": "lapce__lapce__e2fea3d5ed5bc018933b54ff865b34f0a2ed76ae__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "aesni", "pattern": 15, "receipt": "libp2p__rust-libp2p__7798e23e787be8928054db685f11977f47d6e103__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.4.1"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "pnet_macros_support", "pattern": 14, "receipt": "libpnet__libpnet__65ccb593317d0e7fb2eee36f1b50e2c16d2b8a5f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "encoding-index-japanese", "pattern": 16, "receipt": "lifthrasiir__rust-encoding__e380df4bcb429b4be9addf88b6451a1916ccba76__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "littlecodersh__ItChat__d5ce5db32ca15cef8eefa548a438a9fcc4502a6d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "littlecodersh__ItChat__fc81ba6e53a8c5f7ddeb7edfc8e6e5e7dedde924__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "louis-e__arnis__06ab25d7039ba96298500bbe53e01dfe93b6fc6d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lovell__sharp__249971a743ebf1044a1a7b0d709e610e8b74fa02__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lucidrains__DALLE-pytorch__58c1e1a4fef10725a79bd45cdb5581c03e3e59e7__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lucidrains__DALLE-pytorch__daf30d02a42d4e407b540a568950cdf085f5d9b1__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "lutris__lutris__eafb5fea552a0f3afd0abb1b1321b328611671e5__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "m-bain__whisperX__f8cc46c6f7fa3b8509bc6aa04cdf4a62a702bb42__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mage-ai__mage-ai__e18f788b14b390bee8ba037b2f20433ac2c686b4__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "magic-wormhole__magic-wormhole__657bd5d51c67db2109219ff57b7d997afa57261f__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "markdoc__markdoc__a13cc583fa3b0420538e772a75628dd15d72b793__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "matterport__Mask_RCNN__3deaec5d902d16e1daf56b62d5971d428dc920bc__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "matterport__Mask_RCNN__a0a2aa00f813ee61421d96b6f4c90e711b962a9d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mem0ai__mem0__f1791daa86d469249c9b002f62644d58a1eb96a0__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "pandora-module-utils", "pattern": 16, "receipt": "memorysafety__river__0b09036f16d8a2bfe4c6965e3f7acb7f245b509f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "pandora-module-utils", "pattern": 16, "receipt": "memorysafety__river__0b09036f16d8a2bfe4c6965e3f7acb7f245b509f__NOW.json", "snapshot": "NOW", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "meta__prophet__a6d68497f17fd44d4e33451321e7b5bcaadbb376__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "avcodec54", "pattern": 16, "receipt": "mewlips__rust-ffmpeg__934af08f8ae3209b7affe94e74862162b7356429__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__LoRA__a9beb31a8a5463c7ae8c5a3a0b9989c619fd69ba__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__LoRA__c4593f060e6a368d7bb5af5273b8e42810cdef90__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__Swin-Transformer__f82860bfb5225915aca09c3227159ee9e1df874d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__Swin-Transformer__f92123a0035930d89cf53fcb8257199481c4428d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__cascadia-code__643858a5fc1f40f856aba10ae629ff2d008d6559__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__playwright-python__f2c31090d6235014045ad6915d935d6908b1f592__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__qlib__3e79a088ef52c45861135f84baf33a3001366935__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "microsoft__unilm__e1b85b90650d0576f1118cbe7ab26f0df86c2149__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "milesial__Pytorch-UNet__21d7850f2af30a9695bbeea75f3136aa538cfc4a__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "milvus-io__milvus__7d463304f04744ae6b1d41328018db02aa4d6b8c__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mlflow__mlflow__3b4584e78078e322025e236ba0e2f5d3f9a95788__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mlfoundations__open_clip__f9a0948d573009f8fa3e530e55814cb11fb8e8bd__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "pypi", "failure_class": "DEP-MISSING", "name": "umap", "pattern": 2, "receipt": "modelscope__FunASR__3f366d6ed4a92919d02b9501fad655d7268dd6b2__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "modin-project__modin__fae56528c4bf1782608b008a263110d159f44e10__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mps-youtube__yewtube__82e6fba3421994f889226492f40b0501b99ae6aa__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mudler__LocalAI__6b82952c4f826db4114c4eafe0229c55a06fdc15__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "mudler__LocalAI__c30ecdd5353c76f024495d54e4ef632e19f5a323__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "nannou-org__nannou__40c630e433d078760614dc37f03166a1734d64fa__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.7.0"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "nautechsystems__nautilus_trader__a9a93daf95f9da82848a9d8276a2844d905096af__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "nezhahq__nezha__3e7d9ba60361e7968db2b029f28afc7cf32dd69e__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "nikolaydubina__go-recipes__95f0e7647af43e8e6dcba2fd279420a29af96c8f__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "npm", "failure_class": "DEP-MISSING", "host": "registry.npmjs.org", "name": "@npmcli/docs", "off_registry": false, "pattern": 9, "receipt": "nodejs__node__768315cf7165e9ff9b636844b776488e9d1703fc__NOW.json", "snapshot": "NOW", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "nonebot__nonebot2__6a7a36f2efd737e7286ec5cdf24b63330e4805ae__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "numenta__nupic-legacy__7281482def2a96fbda663e6c39e8351a1886dec7__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "nvbn__thefuck__c7e7e1d884d3bb241ea6448f72a989434c2a35ec__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "nvbn__thefuck__e313ff73a96a1ba5496e24e418e280b7cb0f2eda__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "open-mmlab__mmcv__0d00f1a61cae4cc92181891a63cd203b0f2d5d6c__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "open-mmlab__mmcv__d2111bda571f3b3eb53954af6f9cff25f34e626f__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "open-mmlab__mmdetection__b9acff16d0f7bdce293097ad0fbf0171485d7c32__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "open-mmlab__mmdetection__cfd5d3a985b0249de009b67d04f37263e11cdf3d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__baselines__5115707ce9c8a85e1bc4a5258be295162f312d01__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__baselines__ea25b9e8b234e6ee1bca43083f8f3cf974143998__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__gym__0c91364cd4a7ea70f242a28b85c3aea2d74aa35a__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__jukebox__08efbbc1d4ed1a3cef96e08a931944c8b4d63bb3__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__jukebox__08efbbc1d4ed1a3cef96e08a931944c8b4d63bb3__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__universe__cc9ce6ec241821bfb0f3b85dd455bd36e4ee7a8c__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__universe__f95a5fe2fdb5556a7d8dfc1c06dbe4d8ca6dc177__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "openai__whisper__ba3f3cd54b0e5b8ce1ab3de13e32122d0d5f98ab__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "parity-ui-precompiled", "pattern": 16, "receipt": "openethereum__parity-ethereum__6608027c0204d8f8e3aca11f9b87f226c5569434__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "optuna__optuna__14a2f9ff0aeb096edd9a354a97f95c8c308228ae__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "ws", "pattern": 16, "receipt": "paritytech__substrate__50aa34fd48b301c1f96d6fc6a26f1644555d5426__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "paypal__junodb__9750751a5335111b7a536326df5925e78cad245d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "paypal__junodb__9750751a5335111b7a536326df5925e78cad245d__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "permitio__opal__2910d6750ddf2e4bd3ec7445797e4e28bb7d0cc2__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "syn", "pattern": 15, "receipt": "pest-parser__pest__2c6711f51594af4b6f4b07a1cf08421b9f34b037__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.10"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pritunl__pritunl__f883c64150497b49c0694cde45ad0147fed0a586__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "cargo_toml", "pattern": 15, "receipt": "probe-rs__probe-rs__e1193c568efd2a5a0eb7dfdc48b973d3a2aa5f7e__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.8.1"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pyca__cryptography__8fbba2e30c25041c3be2a845805732224922ab97__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pydantic__pydantic__3c4c163dc5b1db37261f469d33c5b37975f48547__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pyecharts__pyecharts__1c437f6a662eefe41172cb97b99d64a7e0dd0d62__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pyg-team__pytorch_geometric__d1f2f8642387b6e0563d6aee227c39130746c738__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pylint-dev__pylint__6e6c135e3d4a35e21ecf202651afa7642a5e3edd__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pyqtgraph__pyqtgraph__ef6cd9be88855b62d07def21efd5cf45fef7d926__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pytest-dev__pytest__03a7a2cd3ed855a8ee0af260aba236818bbcacaf__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "python-poetry__poetry__fbcea50d2003e85bcaac9916d2c60e7b08926150__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "python-telegram-bot__python-telegram-bot__8dec234225145f8ec0cc8fd97d42208a32d8f0e6__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "python-visualization__folium__3c114338c1f33b1320946ecdd63f6928c7a16a96__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "pytorch__pytorch__b7c64249cb2283ffa7df511a4d5c2bdc00819a0c__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "rbgirshick__py-faster-rcnn__781a917b378dbfdedb45b6a56189a31982da1b43__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "rbgirshick__py-faster-rcnn__96dc9f1dea3087474d6da5a98879072901ee9bf9__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "remotely-save__remotely-save__34db181af002f8d71ea0a87e7965abc57b294914__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "ricequant__rqalpha__5b8a1d46e82f5f1f46c3873c15d2a8cdb0a0f571__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "npm", "failure_class": "OTHER", "name": "uglifyjs", "pattern": 6, "receipt": "riot__riot__2f3820e764932124f97e66cd3e5df36997bde1e8__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "~2.3.6"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "rollup__rollup__7885ab76713fc461b40bb1956728a834b33e9a79__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "rs__zerolog__c482b206231df1662b9e1895a9ba17a88b11220c__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "rsms__inter__b82b74e5447fc875796497d70b82c251f09a08d1__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "ring", "pattern": 15, "receipt": "rusoto__rusoto__c0030c075ed1a6991bc521d10033700ce24466c2__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.6"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "hmac", "pattern": 15, "receipt": "rust-lang-nursery__rust-cookbook__fad847ef2d0b9e39c013f6ec8fa14cb4224c4133__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "rust-windowing__glutin__535356f5ce15d0d606ac0064038877a461290378__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.2.2"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "rust-windowing__winit__198d9ff230d8fb8de0d5103d9fa40cee1f55c368__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.7"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "platforms", "pattern": 15, "receipt": "rustsec__rustsec__196ba1a6f5cf4af087b36e5b35a0a34dd783a9ec__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "knf-rs", "pattern": 16, "receipt": "screenpipe__screenpipe__d622ff90fcb3527aeb64ec81515eb3dd548a8693__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "seanmonstar__reqwest__fa0debd128b0344813f9f5f92947ca1588970ca0__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.13"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "searx__searx__00abe3df3857f70875543e766223bc7bc0ccce93__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "searxng__searxng__3a3dd15bfafcb645a1b45c2c6c0798a8f786aaaf__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "searxng__searxng__647a0aa98bd1d2000eb1ca5270e017d85d5c3463__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "serde_macros", "pattern": 16, "receipt": "serde-rs__serde__85d0c8e4e8b5944f98ffae9bcb403ce8cae921bb__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "serenity-rs__serenity__0b1f684106031657d6bf581206c06e5443d06da9__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.13"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "shidenggui__easyquotation__4314ece71a113492f8234597d609182b9e55bb96__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "siderolabs__talos__3472f49362ddaffd5d69b43e929cfe1d498da47d__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "sktime__sktime__60819a322f8e37da2e7dfea5206f21e6a689bafd__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "atomic-polyfill", "pattern": 15, "receipt": "slint-ui__slint__75ba29cf2fc593e824718bc2b21036b4ee2430f4__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.5"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "sml2h3__ddddocr__60c4540f7cc2d4a127a66730045b33bbd8a3c9eb__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "rmp-serde", "pattern": 15, "receipt": "sodiumoxide__sodiumoxide__3057acb1a030ad86ed8892a223d64036ab5e8523__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "^0.13.7"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "libsodium-sys", "pattern": 16, "receipt": "sodiumoxide__sodiumoxide__c94463483230c9ff67588cd4970e85909f243f3d__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "security-framework", "pattern": 15, "receipt": "sonos__tract__e7c0f2baa02244a01e2d7921ce9375e46cb574dd__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.13"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "sparckles__Robyn__1170748e211c2d51ac9278e126c82338bd08ff2a__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "tauri", "pattern": 16, "receipt": "spyglass-search__spyglass__033d046157900a22cdad1cca7f855110f5845f38__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "squidfunk__mkdocs-material__ec6319412936a1aa50285192fbc8b816d396c12c__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "npm", "failure_class": "DEP-MISSING", "host": "codeload.github.com", "name": "sveltejs/action-deploy-docs/tar.gz/b907399e6bf74c9cc8f246ba38d2a392c77c8fc3", "off_registry": true, "pattern": 10, "receipt": "sveltejs__kit__b0fa96b756d810127391d4b376c2d0aad4a0e1c8__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "aligned_alloc", "pattern": 15, "receipt": "tensorflow__rust__a972ae42e430efebb92d2f262cffb15973370de9__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "ntplib", "pattern": 3, "receipt": "testerSunshine__12306__a495af88346a0d794493c6030f6a6207debb5824__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "0.3.3"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "therecipe__qt__c0c124a5770d357908f16fa57e0aa0ec6ccd3f91__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "theskumar__python-dotenv__f8bd0c6c839074f5a0af876a91ea4fbeccf17899__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "whisper-rs", "pattern": 16, "receipt": "thewh1teagle__vibe__6734091e80ddb3dbab5cf20d7c8d5ff1fa44b61f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "thtrieu__darkflow__d932e66a26b0048fb59c3cc9f2825517a2c62315__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "thtrieu__darkflow__eb7e830393f24233032b8578737141528be01d65__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "tidwall__evio__6dff809d85b7e469567b216bb54897ae17e1455d__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-MISSING", "name": "rocksdb", "pattern": 16, "receipt": "tikv__tikv__0d40e55b1841c9be5c3fba7a97b87ed4281aedb6__ERA.json", "snapshot": "ERA", "transient_before": false, "version": null}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "opencv-python", "pattern": 3, "receipt": "tonybeltramelli__pix2code__94f651f00c686abee4fc633c7b6e4394c2cd3df5__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "3.3.0.10"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "opencv-python", "pattern": 3, "receipt": "tonybeltramelli__pix2code__eab4816e397e7491b92bdcb78d9d7195afa412b3__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "3.3.0.10"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "litellm", "pattern": 3, "receipt": "topoteretes__cognee__f7d3b6ea71e3498f0bbc56818228a32c777a5a9f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "1.49.1"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "wgpu", "pattern": 15, "receipt": "tracel-ai__burn__40ec289a92c7925fbd7eeb8fe89991537da3e857__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.18.0"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "azure-batch", "pattern": 3, "receipt": "trailofbits__algo__a844870b7a2d68fc26ed8fbc277160f01ba50611__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "0.30.0rc5"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "trailofbits__algo__b1444878b67c8bc238a4f344edf9878619deddc6__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "treeverse__lakeFS__ef700b3d7996c597ed9788dcf9dcc35b704685e8__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "trishume__syntect__af810cdb4333106dd93a298982fe945150b5da4f__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.4.1"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "unifyai__ivy__fc7efe449b310ac107246b1718aa8ce92eaaf1fb__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "unit8co__darts__5ce5aff88ffb475505a5b9e88b24a1f0f5682572__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "unslothai__unsloth__48c743d5085b004a663785b9dcf0714871b65862__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "vitalik__django-ninja__b1928d544808be36547b9761e50b8da2f6412fe0__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "vitalik__django-ninja__d235edcfb15287703c9889ed8fbfacadc0079387__NOW.json", "snapshot": "NOW"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "xml-rs", "pattern": 15, "receipt": "vulkano-rs__vulkano__0b5d4942886ee280811310ce80c0b72055b2de98__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.1.26"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "vwxyzjn__cleanrl__27942980cc665a52438e2ab6df8094c9e9b856d5__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "waditu__tushare__d6c4a37e2106f46d9974eddb7f283ff76f9a9c35__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "opencv-python", "pattern": 3, "receipt": "wangshub__wechat_jump_game__3cbbb07957901821542fcfc231a09b4f3c9318c9__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "3.4.0.12"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "opencv-python", "pattern": 3, "receipt": "wangshub__wechat_jump_game__3cbbb07957901821542fcfc231a09b4f3c9318c9__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "3.4.0.12"}
+{"ecosystem": "pypi", "failure_class": "DEP-VERSION-CONFLICT", "name": "mysql-connector-python", "pattern": 3, "receipt": "worldveil__dejavu__e56a4a221ad204654a191d217f92aebf3f058b62__NOW.json", "snapshot": "NOW", "transient_before": false, "version": "8.0.17"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "wzpan__wukong-robot__3af61f301764ef8321c81fc1abcdc96eb85d76ac__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "wzpan__wukong-robot__3fd73e075bc3fb22a36191f5e656c52aebcc6834__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "x-hw__amazing-qr__0d50b3e2e38e65daac023d93209ed51e85154fc9__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "xmendez__wfuzz__1368de77a5ac2dc3c5b609c3c04544acb0232fec__ERA.json", "snapshot": "ERA"}
+{"ecosystem": "cargo", "failure_class": "DEP-VERSION-CONFLICT", "name": "rmp-serde", "pattern": 15, "receipt": "yewstack__yew__886e63da52d9b9f127aeb2613bd59355f14314fe__ERA.json", "snapshot": "ERA", "transient_before": false, "version": "^0.13.7"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "yutiansut__QUANTAXIS__fb157c79bfdf629cc1cb3d6affab8ad3007916fa__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "zitadel__zitadel__62c9668cc7fec2dc039174015a28d9fbb3bf7dcc__NOW.json", "snapshot": "NOW"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "zitadel__zitadel__9a374f9c5ce92c7e202e18be6494f80b200f9a8c__ERA.json", "snapshot": "ERA"}
+{"failure_class": "DEP-MISSING", "pattern": null, "receipt": "zyddnys__manga-image-translator__d6de6ab62a7be6afc0d07a3184149cdefbcd32f2__NOW.json", "snapshot": "NOW"}

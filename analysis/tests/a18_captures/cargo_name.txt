@@ -1,0 +1,4 @@
+    Updating crates.io index
+error: no matching package named `zzqx-not-a-real-crate-9431` found
+location searched: crates.io index
+required by package `t v0.1.0 (<path>)`

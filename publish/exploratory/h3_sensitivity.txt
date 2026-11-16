@@ -1,0 +1,11 @@
+# EXPLORATORY post-hoc; changes no verdict
+fisher_two_sided all (fit H3 table): marker 174/369 other 115/205 OR 0.698 p 0.0451
+fisher_two_sided without pnpm-defect rows: marker 174/350 other 115/204 OR 0.765 p 0.1349
+fisher_two_sided eco=go: marker 52/70 other 49/74 OR 1.474 p 0.3628
+fisher_two_sided eco=node: marker 32/115 other 15/34 OR 0.488 p 0.0929
+fisher_two_sided eco=python: marker 48/89 other 22/47 OR 1.330 p 0.4734
+fisher_two_sided eco=rust: marker 42/95 other 29/50 OR 0.574 p 0.1205
+cmh_by_ecosystem: chi2 0.3495 p 0.5544 pooled_OR_MH 0.883 CI95 0.617 to 1.264
+cmh_by_ecosystem_no_correction: chi2 0.4673 p 0.4943
+breslow_day_homogeneity: chi2 6.9331 p 0.0741
+node share: marker 115/369 = 0.312; other 34/205 = 0.166

@@ -1,0 +1,310 @@
+# block 1 (freeze 2026-11-09T07:22:42Z); first five rows: sha256sum -c; farm rows: git -C <farm> show <rev>:<path> | sha256sum
+3036d34716faff47cfd09cc62196ca7e5ed8b48552c0053bf830010de76a2e26 *PREREG.md
+cf58cff0dc2195c578f5cf9555677a91569f464a59c83d9d1f088e2df0004176 *FROZEN_LIST.jsonl
+f7c1e79e1b8fde358982ebca9b21effc7d79d556933a85211d93300519a4943e *PILOT.txt
+4aeae4f45ce2cc2d196b398f387b1aa5eb0c3ad9334939982cd04a749fd0c0e1 *FROZEN_COUNTS.json
+7c6e4eae64e0c0d7e83084e7313d41081097904e8904973b87ac6f6f8d7bae4e *analysis/fit.py
+a65239a8487647ac0f72becef85854249f925361cf2576432c4de64b43815e02 *lists/snapshots_core.jsonl
+4c555b88a816c11d20eff28b49ce2e37dc0cfaa31910f7456c49d70f47bda143 *lists/SUMMARY_core.md
+822b05e0a9e2ffd76e62498315c063b19f5c85452bae834606c1ad9d279687ba *halflife@5c9d45e:farm/recipes/build.sh
+a4243bcbbe7315a14c54aea46b78031c526cccfce0c5643f5296ade42247b68e *halflife@5c9d45e:farm/classify_fail.py
+c14bf99b77b458ab18157023b77d015b6ec90db7ebad314d0f7546cba94ee815 *halflife@5c9d45e:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@5c9d45e:farm/batch.py
+# block 2 (freeze 2026-11-09T11:12:00Z); recipe rev 059c591f99fb64d2137609621c7ed55e86abcc00; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@059c591:farm/recipes/build.sh
+75cfd13c942bed6b74430fd1010759bb74b4244e4fd736b126365f81ac69bd54 *halflife@059c591:farm/classify_fail.py
+914743722ae748ac1928f97e301ba8c8373d75efc9f34020d4e09c693b59aaa1 *halflife@059c591:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@059c591:farm/batch.py
+7e376723e61fd6f5f3f9e8d1383f20567222c9dc7971c3931a7657ea2b9a0600 *halflife@059c591:farm/proxy/allowproxy.py
+f9e11631efa9854ac9284bc699e060bdaa8e769ab6e87f8546de1c73e03ec968 *halflife@059c591:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@059c591:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@059c591:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@059c591:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@059c591:farm/images/rust.Dockerfile
+f15592a2bb14b884770a22a6df511e4e2cc09f7a42a42780a59534345c477e1b *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+# block 3 (freeze 2026-11-09T15:04:31Z); recipe rev fdd32d71c41d56a713368f882545d411465a5802; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@fdd32d7:farm/recipes/build.sh
+69f2c71234b850c8efda95eb7385e7fd24ca8286d6795695b5128992d11f9722 *halflife@fdd32d7:farm/classify_fail.py
+102c388b46a1ed5ae9e1437dc2d5d8fb938fd014aff4474ee808fd6ffef85fd2 *halflife@fdd32d7:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@fdd32d7:farm/batch.py
+7e376723e61fd6f5f3f9e8d1383f20567222c9dc7971c3931a7657ea2b9a0600 *halflife@fdd32d7:farm/proxy/allowproxy.py
+f9379c0a0cab3c17bbf793f15ebe5daf393bbd7cf26d4175d20c411189e23102 *halflife@fdd32d7:farm/proxy/allowlist.txt
+0eb962789774d795527fae9046a0d7528eaa58f172aa27f3818a4fa753643c0d *halflife@fdd32d7:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@fdd32d7:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@fdd32d7:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@fdd32d7:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@fdd32d7:farm/images/rust.Dockerfile
+f4aa3733c2d89e21e329152e921ef7a7ef9a58301c9c9fe98df1156d6a08507b *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+# block 4 (FULL tier freeze 2026-11-09T16:57:14Z); CORE tier copied from block 1 by key, 3600 rows identical; sha256sum -c
+ae8a52808e57180f7779d796420e7e625d8abdb4cc62300a20e01bacf4e995b3 *FROZEN_LIST_FULL.jsonl
+be5c61059447326952bfd43ab223f23884571235b1069ebea332fe63827fc9d7 *FROZEN_COUNTS_FULL.json
+06a329e375d6e2c276a2f1e0640b5a5540db4aa42b2a90fad4b50d580286d159 *lists/snapshots_full.jsonl
+3ba0836c68242161da2750f09cd1129fed3c9fb5e6b118eef819b9c2d7119eac *lists/SUMMARY_full.md
+# block 4b (2026-11-09T16:59:04Z); A4 reclassification list, append-only; sha256sum -c
+f958c0db7542bdab72a7944d96f810d4d794dd49150bfbc97c0c4e08fe743176 *A4_TREE_FAILED_RECLASS.tsv
+e8e3c846ab1035c557faa5e1440c1d0ffa93406cfc3015e34f208ea05d586729 *PREREG_AMENDMENTS.md
+# block 4c (2026-11-09T17:00:13Z); A4 corrected (root-manifest evidence present on the 32 rows; ruling conditional on c8 answer); append-only
+e76611da1eefa83f78d1d8a4bb6d862c7fbf90619e3268802b0a71caea74ecb6 *PREREG_AMENDMENTS.md
+# block 4d (2026-11-09T17:00:35Z); supersedes 4c hash (timestamp word fixed after hashing); append-only
+a8deaa8d390ede75c4c0249014aa7516d6e07f65c36bdb847aa9792eb66c7e77 *PREREG_AMENDMENTS.md
+# block 4e (2026-11-09T17:04:02Z); A4 resolved (32 rows stay OK; field semantics in SUMMARY_full.md); append-only
+36a7a77eacd9da10ac3f5119579b73bf7296bef18cbb7becb668fbb27ce82c53 *PREREG_AMENDMENTS.md
+a949be7f673073f880d6364171ed7deae2d6b175dfe0119211cd8d4aebf97614 *lists/SUMMARY_full.md
+# block 5 (2026-11-09T17:14:35Z); redacted = redact(original) under a private one-to-one map of agent-session labels to role labels; round-trip verified byte-for-byte at 2026-11-09T17:14:35Z; the 6 original-text rows (blocks 2, 3, 4b, 4d, 4e for PREREG_AMENDMENTS.md; NOTARY_META.txt) are verifiable by an auditor on request; paths relative to prereg/
+b6381edc7b343f7ef8e210f377ad062203717c3135b0dd415186db8dbd52d370 *redacted:PREREG_AMENDMENTS.md
+40b9e2419c3d57c2b1cee18ccc1f073cf116f7407f8e52e14f930649cf83051a *redacted:NOTARY_META.txt
+ef6a73d829b70153b257c186afbdf22f061f4fd4d0957f0f4b3bb5314a366957 *redacted:history/PREREG_AMENDMENTS.block2.md
+f3da816301ac057082e03c5425a7645d4c080189613997872ee37197ffcec0e3 *redacted:history/PREREG_AMENDMENTS.block3.md
+ca8a7dd2339fc4c0eaf6f11c58633d21d4aa1edaefda32dee0aac84afaabde1e *redacted:history/PREREG_AMENDMENTS.block4b.md
+a91788e0baa3619a313b251950b4d47748494c97e808ca9e76a62fd0c827f4c6 *redacted:history/PREREG_AMENDMENTS.block4d.md
+# block 5b (2026-11-10T03:08:30Z); A5 analysis date, FULL as later replication update, H3 marker join, parallelism note; written before any CORE result was read; append-only; sha256sum -c
+2400984f1b7bd0d7fb66086e94054c47ca103f5c50f7c463ac01673888580483 *PREREG_AMENDMENTS.md
+# block 5c (2026-11-10T03:52:17Z); H3 marker join frozen before any CORE result was read (A5 item 4); review still pending; sha256sum -c
+86c5fb606b74cbe827af91b4880e6b22773e785ff1738f98ff8fa6649a5c67f0 *markers/ai_marker.jsonl
+0a85b4a7d32ff7fa0ecfbb4e1d1f819a0129ac0d8ffcc191e0502ad33e5d3da9 *markers/build_markers.py
+9f9b4e70c2b6da927d25f0dc6d550df2705158796f49647fcbae87042d855715 *markers/JOIN_NOTES.md
+# block 5d (2026-11-10T14:45:19Z); A6 standby-window void rule (280 receipts void and rebuilt, outcome-blind); append-only; sha256sum -c
+81632342a3887a2e9d5f7e1057d46820ee604fedab9593117dd7435cf2c5c460 *PREREG_AMENDMENTS.md
+9001d54b35ba0544eb8435d9d9ffad948a71f73c7d2bd21c034c57307a2b185f *OUT/core_void_standby_20261110/VOID_LIST.tsv
+# block 5e (2026-11-10T14:46:24Z); A6 wording correction; append-only
+adb66f0dfb50e5acd5af2137f815b8ceb33d3336967334e0183128e1cca721ac *PREREG_AMENDMENTS.md
+# block 5f (2026-11-10T15:29:51Z); A7 prospective rewording of the A6 fault test; append-only
+9821ccc5f41f443bf30dd41d7b45fec190dbb4d67a535c8be91197eed560c407 *PREREG_AMENDMENTS.md
+# block 6 (freeze 2026-11-10T15:42:44Z); recipe rev c1a3efd1f5c12eeac35c8c9c8deff9eb19ea05f7; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@c1a3efd:farm/recipes/build.sh
+69f2c71234b850c8efda95eb7385e7fd24ca8286d6795695b5128992d11f9722 *halflife@c1a3efd:farm/classify_fail.py
+b91767ae008773b6d989f86ac92ac11f532637e4441e7778a871db2f1b63756b *halflife@c1a3efd:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@c1a3efd:farm/batch.py
+279e6afd571daba4310a64e52e3608c4db9bfbe18d58a61a340c32d4284169eb *halflife@c1a3efd:farm/proxy/allowproxy.py
+f9379c0a0cab3c17bbf793f15ebe5daf393bbd7cf26d4175d20c411189e23102 *halflife@c1a3efd:farm/proxy/allowlist.txt
+0eb962789774d795527fae9046a0d7528eaa58f172aa27f3818a4fa753643c0d *halflife@c1a3efd:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@c1a3efd:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@c1a3efd:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@c1a3efd:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@c1a3efd:farm/images/rust.Dockerfile
+2a20c1974b2ab834c4d3ccc591cfe212943fff4f7b7fcd99961e7b2b212a2701 *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+3aa1716d4beb7eda327615a1af10c5397f9dcd02ee35b647f0901a1b2f92ab7c *halflife@c1a3efd:farm/tests/proxy_fd/check.py
+96cdce19f416d46534d471631a5bce01aa483412691ee48f628553170e0c3cb9 *OUT/core_void_proxy_20261110/VOID_LIST.tsv
+# block 6b (2026-11-10T16:04:00Z); A8 rebuild-agreement sample (100 rows, seed 20261110) frozen before any rebuild; sha256sum -c
+d48e0ef2bd79e696b01002efe5e7c3bbe451406ca00e6782a905efbb1c6933ad *qa/REBUILD_SAMPLE.jsonl
+423bed28deeb878eb35cb9b88c9ebb71af6cf3fa61fec2f96972cd941c87de5e *qa/rebuild_sample.py
+# block 6c (2026-11-10T16:13:01Z); A9 parallel 6 on a measured-memory lease, VM OOM guard; append-only
+efe203fd5de3115bd9cfc872e957ffade5107df6d8ad04d1fce21979ac98db90 *PREREG_AMENDMENTS.md
+# block 7 (freeze 2026-11-10T16:31:55Z); recipe rev cf0fa2eb5ecf998401e3f99c6c42a1f2939bfc94; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@cf0fa2e:farm/recipes/build.sh
+69f2c71234b850c8efda95eb7385e7fd24ca8286d6795695b5128992d11f9722 *halflife@cf0fa2e:farm/classify_fail.py
+1373f14a0ffa8bc7a18ca73c867f9a7f8ce0cadd6489c9bfb2ed8decb0261b0e *halflife@cf0fa2e:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@cf0fa2e:farm/batch.py
+1ab4d88da621a4323f0dd4c41944feda3b25aba04ece71412e24e26d4b65d9f0 *halflife@cf0fa2e:farm/proxy/allowproxy.py
+f9379c0a0cab3c17bbf793f15ebe5daf393bbd7cf26d4175d20c411189e23102 *halflife@cf0fa2e:farm/proxy/allowlist.txt
+0eb962789774d795527fae9046a0d7528eaa58f172aa27f3818a4fa753643c0d *halflife@cf0fa2e:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@cf0fa2e:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@cf0fa2e:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@cf0fa2e:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@cf0fa2e:farm/images/rust.Dockerfile
+cac0ce7a4c00a21d9b4e38385162f0a3413e87155f026b57c7e81ded704832bf *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+51d56e30f7daa41503ccc0849518580bbb2888d3d59fb649d302e097c887dce1 *halflife@cf0fa2e:farm/tests/proxy_fd/check.py
+e731dc9379927fbe2ad4a54ecdee60046f41b57da6ea218ce37addcce1efd760 *OUT/core_void_proxy_20261110/VOID_LIST_v2f.tsv
+# block 7b (2026-11-10T17:00:43Z); A11 parallel 8; append-only
+c2fd4a0aa80627bc2ff76058a930dd6d5eb7dbdc7f12aa8b802aa0ffc2feabef *PREREG_AMENDMENTS.md
+# block 8 (freeze 2026-11-10T18:05:26Z); recipe rev eb0044a0aacfea632d60d9ddc39ed3f99d689ee3; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@eb0044a:farm/recipes/build.sh
+69f2c71234b850c8efda95eb7385e7fd24ca8286d6795695b5128992d11f9722 *halflife@eb0044a:farm/classify_fail.py
+3c4d68a487a4a95bd50f381a873aa6fa733c3bc1782b3bb56f506e479420760e *halflife@eb0044a:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@eb0044a:farm/batch.py
+ef9111b2274747ac397f10715e76175102a4ed61f7c87ff58bbd0e53d8f9a80d *halflife@eb0044a:farm/proxy/allowproxy.py
+f9379c0a0cab3c17bbf793f15ebe5daf393bbd7cf26d4175d20c411189e23102 *halflife@eb0044a:farm/proxy/allowlist.txt
+0eb962789774d795527fae9046a0d7528eaa58f172aa27f3818a4fa753643c0d *halflife@eb0044a:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@eb0044a:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@eb0044a:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@eb0044a:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@eb0044a:farm/images/rust.Dockerfile
+bbdd316fab65ac3f9ee6e7dd7ee465f3789ec636e4af585019f655514f2c2598 *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+# block 8b (2026-11-10T19:43:06Z); A11b parallel up to 12; proxy-start overlap void rule; append-only
+08a641d6b161592aed0ae2fac280fa6303087d6ad48a92d4882b8a21a1457b9b *PREREG_AMENDMENTS.md
+# block 9 (freeze 2026-11-10T20:42:37Z); recipe rev 3fe2a686d5efe4034ed6a71ffa681256c65968b1; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@3fe2a68:farm/recipes/build.sh
+69f2c71234b850c8efda95eb7385e7fd24ca8286d6795695b5128992d11f9722 *halflife@3fe2a68:farm/classify_fail.py
+966784c984d77a4f91ee7cfc855d0c3328acc86cb951729f7422eed79b82e532 *halflife@3fe2a68:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@3fe2a68:farm/batch.py
+f304dcf221b89930b860734602b92265932bc13047ddbf78dd589b10a572d6bb *halflife@3fe2a68:farm/proxy/allowproxy.py
+f9379c0a0cab3c17bbf793f15ebe5daf393bbd7cf26d4175d20c411189e23102 *halflife@3fe2a68:farm/proxy/allowlist.txt
+0eb962789774d795527fae9046a0d7528eaa58f172aa27f3818a4fa753643c0d *halflife@3fe2a68:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@3fe2a68:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@3fe2a68:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@3fe2a68:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@3fe2a68:farm/images/rust.Dockerfile
+32156b17240501c8da92e740b5fa9775adef5db3efd5fbf721520e82d2766cba *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+def9583bc9645b0743f1e6d49be0b5e56bf8751cc7570f152ba2e77d999c3a2d *halflife@3fe2a68:farm/tests/proxy_fd/check_dedup.py
+# block 10 (freeze 2026-11-10T21:16:16Z); recipe rev c6050e8cae787948286d6d3728e727ddb3f48731; farm rows: git -C <farm> show <rev>:<path> | sha256sum; image rows: docker image inspect --format '{{.Id}}'
+7fb46322d4004131209e524cea29839f1bb1291266c79b60a403f1c93acc2e7f *halflife@c6050e8:farm/recipes/build.sh
+69f2c71234b850c8efda95eb7385e7fd24ca8286d6795695b5128992d11f9722 *halflife@c6050e8:farm/classify_fail.py
+15baf5e496fb5a0601f901634e458155da6470036c411a9fb2b90ade79c76ff3 *halflife@c6050e8:farm/run_one.py
+fe571b8c27ccb68b8fe95507bcfc4033a8d9332d76b8596ead99771e93fda23f *halflife@c6050e8:farm/batch.py
+f304dcf221b89930b860734602b92265932bc13047ddbf78dd589b10a572d6bb *halflife@c6050e8:farm/proxy/allowproxy.py
+f9379c0a0cab3c17bbf793f15ebe5daf393bbd7cf26d4175d20c411189e23102 *halflife@c6050e8:farm/proxy/allowlist.txt
+0eb962789774d795527fae9046a0d7528eaa58f172aa27f3818a4fa753643c0d *halflife@c6050e8:farm/tests/test_classify.py
+1d89def5f5274acb62501106a90b9cbe1ebe242a7c941cd720ea5c497d70f709 *halflife@c6050e8:farm/images/go.Dockerfile
+53e6b277ed675074a237d64277aad46c8d1c0d0d0a1fa7834e4a7131202197fe *halflife@c6050e8:farm/images/node.Dockerfile
+e2affb4ef617248ce24d3e1bf5beddcea933156dbd7cfba71962b809dae04632 *halflife@c6050e8:farm/images/python.Dockerfile
+23edc572915183331ba6438c206ded3c08007a0d86168f3a120b2eccdafbe2c2 *halflife@c6050e8:farm/images/rust.Dockerfile
+19f0cb1048c8a253b71c3ec017256a7902e2658d7f82ad7149e1de18d22ef5b7 *PREREG_AMENDMENTS.md
+dd927a0b7b2f56f21c1313b644a4950cef766184735cdc351a5c395f4bb8ec47 *image:hl-go
+cee8cf5d17c1b5e5f9be6a5a943e9bf1d8af4fa9fcf78c85b56ec98966eab593 *image:hl-node
+d2a8bd3e87d464ffbb004e8bc6259e2be81b41369c4d934553d492be3399d7df *image:hl-python
+cda5044e05fe51bbdb32ef64f32641760a55bac2e9d1dc2165213b5f1751bd35 *image:hl-rust
+1795dc22715eda2d48baba8a494b27cd51cdc5d8a9a36f7845e2362b84c58dfe *OUT/core_void_proxy_20261110/VOID_LIST_v2h.tsv
+# block 10b (2026-11-10T22:35:23Z); A15 per-revision agreement sample and revision sensitivity; append-only
+98b5a7bb13e951970b49164d9da86665b0a7d1f48793548f0828cceafcf8d196 *PREREG_AMENDMENTS.md
+# block 10c (2026-11-10T22:35:48Z); A15 header time corrected (22:45Z mistyped, real 22:35Z); append-only
+c7759df7782d0c92c46ca4836edb405701f2a7f7538a36118b87e7a039456f7a *PREREG_AMENDMENTS.md
+# block 10d (2026-11-10T23:21:40Z); A16 NETWORK and HTTP 429 rows rebuilt once at parallel 2; append-only
+1b0e119868468f0dc7b0b5fed70b7e454a6e2067a1192b51b91c2425ed4e34cd *PREREG_AMENDMENTS.md
+# block 10e (2026-11-10T23:22:07Z); A16 header time corrected (23:30Z mistyped, real 23:21Z); append-only
+2ef3186ac4488e933fa211d864d3c4c20d3926df9dc2a5b090b7617f0e428adc *PREREG_AMENDMENTS.md
+# block 10f (2026-11-10T23:35:09Z); A15 2(a) = stratified Cochran-Armitage; A15/A16 tools pinned; append-only
+6559f8a6eadfeaf1a314332a0b7369feefc4d1ca86d279435619d60d22254c63 *PREREG_AMENDMENTS.md
+9596bb3b20db34c4fb95906ed45d741a597da7b5479e40b24e177478c34c9a09 *analysis/sensitivity_a15.py
+249addfaa8b24d04b6bc8a6046827d40204f446cc595f2a0046b7898c0eca458 *qa/timeout_rebuild.py
+5a13e90bee90ce90756899ae952f70717f318c374f84cb9f7a053a678c6a9e0f *qa/a15_sample.py
+# block 10g (2026-11-11T00:57:53Z); A16 selection test and current tool hashes; append-only
+249addfaa8b24d04b6bc8a6046827d40204f446cc595f2a0046b7898c0eca458 *qa/timeout_rebuild.py
+3f7186c9fb46f0f9a8f22282294bc5b0700cbe627fa0e5568be6ab184f0e07f0 *qa/tests/test_a16_select.py
+# block 11-note (2026-11-11T13:13:27Z); A17-NOTE finding logged before decision; append-only
+9d970d253a809b6a29a3fb46899064e39f1dee36d9d0dbe92fba239b05960a2c *PREREG_AMENDMENTS.md
+# block 11 (2026-11-11T13:25:24Z); A17 upstream-transient criteria (review verdict T); tools pinned; append-only
+f5fd16fa150ebb371deed419943f0fff34ca8c02720484c172d46710d7d3ff5d *PREREG_AMENDMENTS.md
+bd57012af8a358a4a3db728ea94e03e1f69df61d2b4af19edc1638562ff93c1c *qa/proxy_audit.py
+b53e1429a8675c5cf5098e4fbcc09f8c24a8759500124a4096e463d7eef7c84b *qa/timeout_rebuild.py
+ed03a833829d069011aac57488992406430a13435336214194cfc2eeed2a7fde *qa/tests/test_proxy_audit.py
+16d76f65828c10fd82331c7fe4c3e7dbbc6911ae603b99636fecd90992bd6986 *qa/tests/test_a16_select.py
+02ce6a70c42487bc51e9c8b3a40aa226ae73c3470d261511d20795ad09355e6d *review_fault17/RESULT.md
+# block 12 (2026-11-11T19:52:22Z); A18 registry-reported absent dependency (secondary, descriptive) fixed pre-result; extraction tool and tests pinned; append-only
+2a9f645c0e002d7e1ee58f4508bb6013fec6191e79ba7a47bc136278f58a4787 *PREREG_AMENDMENTS.md
+4761149b0cdcf3915c867520ada30966e4a473d98edb0abe68fd9ba3c03e88c8 *analysis/archive_loss.py
+371d4afcbe3504e68781a4a3cf122067d6a0bf05dd852af7c331b1895709c99a *analysis/tests/test_archive_loss.py
+29e24206cc0c9b7686d9632c77a11511c3f1014c8fff37de0ea57d79e8b27c5b *analysis/tests/a18_captures/ (sha256 over sorted '<sha256> <name>' lines, 14 files)
+# block 13 (2026-11-11T21:53:10Z); tool re-pin pre-result, no rule change: qa/timeout_rebuild.py now matches the A17 Ruling 2 literal case-insensitively as the amendment text says (it was case-sensitive; found by dry read, before any rebuild selection ran); A18 probe tool and tests pinned (written by the executor session; not run on real rows); append-only
+2a9f645c0e002d7e1ee58f4508bb6013fec6191e79ba7a47bc136278f58a4787 *PREREG_AMENDMENTS.md
+c9861a66bbb122906a5c6fa547096746e21416cbe46cd7d9c8f3d58d515822d3 *qa/timeout_rebuild.py
+0f45b82966ff6e8a23a7b2b1d309ca3ca675611c330b4e52b54ac0a1ee39bb38 *qa/tests/test_a16_select.py
+d26a65fa015f261477479fcf68e1cae701e9cefb03ffdc1b7a91ea25fb233a34 *analysis/archive_probe.py
+b968a0dd078333669689db42cf9f082cda352d543ba241dc9b01ddde2c081264 *analysis/tests/test_archive_probe.py
+# block 14 (2026-11-11T22:27:05Z); operational tools and runbook pinned pre-result, no rule change: A17 C1-C5 check, A15 per-revision agreement, A13 list and secondary (refuses before the fit), rebuild-reason counts, runbook, paper template and fill inputs for A16-A18 (placeholders only); written by the executor session, tests run by the orchestrator; CORE still running, no outcome read; append-only
+2a9f645c0e002d7e1ee58f4508bb6013fec6191e79ba7a47bc136278f58a4787 *PREREG_AMENDMENTS.md
+77ef9df3fb6e4994afeb822469e34e33c1572b489f5be0c9a578f75bec8925db *qa/a17_checks.py
+18a4e1c2d06ed85ddbe928e340590ba47a666238b1c86eb72be639d85ac210b2 *qa/a15_agreement.py
+89363cd92072d925ef6891ea528c73359fd83bf6756d7d3e29bcfd80640a6bef *qa/a13_list.py
+f3fe0865ca107da2c54692efe9c218ec084b40942f6cf3b91ff2d03540e2e6b7 *qa/a13_secondary.py
+a1f9b0d3fb1779aa7d0b1f883c5b69705037db14c3b972f4c30f6584e4f4fbf5 *qa/rebuild_reasons.py
+9074eb38f0a0058d77b233dff6a0fdf94353353d0b606b243d038d73f11f3460 *qa/tests/test_gap_tools.py
+235fa5a4f41befb7c8c070059fba637adc219452d4d72460516ff8e831930c91 *qa/POST_CORE_RUNBOOK.md
+ec0fd15ef002ca552385f6d80ba71ab8552d0b94bd18d0edd0fe60db48d89dae *publish/paper.md
+fee710af4c04981ea44d9c3351d13210204df16058f8526f416ef6144c108419 *publish/fill.py
+1544272b2ce5598b23b7eec639fcb7551644f5f31501a997d91f1404c423bc28 *publish/build.sh
+# block 15 (2026-11-12T03:56:20Z); A19 one CORE receipt kept with log not available (file removed on this host on every attempt) fixed pre-result; diagnostic record pinned; append-only
+210583f8e7ef6faba75369b6ccf948731de7d5135411e8af2003f5185c33deff *PREREG_AMENDMENTS.md
+2e79a8ca0e5496d34925f30f3a046dd00e4418830b89db2d36bdcebd9b338b29 *OUT/core/nicocha30__ligolo-ng__abb7e8a54917cecb58dd5c2965110f539895943f__ERA.json
+47bda2107b80a0181da123f49980691ee99646d5c72733b670555e240b96b18c *OUT/diag_ligolo/poll.json
+# block 16 (2026-11-12T03:57:57Z); operator inputs for the A17 end-of-CORE check pinned before it runs; no rule change; append-only
+4494061e650129b218a5dff305c534ec8caa85d1764d2b6a8c70d979a84a66d4 *qa/hl_proxy_threads.txt
+e041694e6b07e720d7ffcfed330b0af6d94386b83a85f4a26b68752a59bdd853 *qa/hl_proxy_threads.PROVENANCE.txt
+f31c4fcaa36902516eb5ae3c08dba0f8fca029ae0140052019f4dea95fac0906 *qa/proxy_audit_step2.txt
+# block 17 (2026-11-12T04:27:58Z); A20 quarterly repeat-wave plan for the CORE list fixed pre-result (descriptive); append-only
+8c8003bc4b263d5707bedf4c6701c3a1344b4943ead4b65b94e5cfc31507f608 *PREREG_AMENDMENTS.md
+5240c6a3fb2adfa98b21e8cec985533ac29a4f9feb76a95075aa769633dd9ce4 *core/CORE_LIST.jsonl
+# block 18 (2026-11-12T04:36:14Z); A22 end-of-life calendar comparison (secondary) fixed pre-result; exposure tool, tests and frozen calendar pinned before the tool runs; append-only
+ef8baf285a703ae7b5656578191402c5b07feb127236653adc6cabd5aff60456 *PREREG_AMENDMENTS.md
+818aeb4e2c35bf6547ad70063b44584b81798d08e28cc443c43cae78f2ab0a8a *qa/eol_exposure.py
+11504bfbde40d6aeea5e038bc650fe795508049c636f6c4c9802d3695082829c *qa/tests/test_eol_exposure.py
+4286e57389ef3cbc16727455ee1c058f3ad514ba820c17cfc76d4ce9c6482889 *qa/eol_calendar/python.json
+8d5a25e39e9cd70d49ab25943888dd0c0d1cc13ac0f48f2faf739a88368a5966 *qa/eol_calendar/nodejs.json
+2035994f8ad091c7b1e8d9362d6a8b50fce5b680bb44e17ea10011dcf77578b0 *qa/eol_calendar/go.json
+5240c6a3fb2adfa98b21e8cec985533ac29a4f9feb76a95075aa769633dd9ce4 *core/CORE_LIST.jsonl
+# block 19 (2026-11-12T04:48:26Z); tool re-pin pre-result, no rule change: qa/eol_exposure.py quotes the URL path (crash at row 2511 on a build_dir with a space; partial output kept, unused); append-only
+48a49c0f6332f4a06d4eacf8b00845f6cb073fbb3de7638eea79abf11eac91fd *qa/eol_exposure.py
+ef36f9a87674ed2f6f31e990139c31559fa95c4fa097238e23ea1f9fcc3cee9d *qa/tests/test_eol_exposure.py
+a0efee65d87612b63f3d35da922d03f4f65193ec4fe9d0dcbd9e82ecce0bde7b *qa/EOL_EXPOSURE.crashed_row2511.jsonl
+# block 20 (2026-11-12T05:14:07Z); A23 moves the A22 verdict to NOW rows after exposure counts (no outcome) were seen; exposure output pinned pre-result; append-only
+4cb32ee6c8aab87a3ea8f90d216eedf1afb29f89d216d4df31548272002d96a5 *PREREG_AMENDMENTS.md
+7185c670f3e07ee0a28e392b9789540d8cfa7170f686108c6b8be3a721e3118d *qa/EOL_EXPOSURE.jsonl
+# block 21 (2026-11-12T05:17:04Z); A22/A23 comparison tool, tests and runbook step text pinned pre-result (tool refuses to run before the fit); append-only
+e7397697c6163b195b7770dd93e891cb5b485cc735d34edd3eba44794bfdaaf1 *qa/eol_compare.py
+00d93ad03c5da83a8013d9e6b20e8cd5631ac877f737f8ffc9d6dd12ca9db0fc *qa/tests/test_eol_compare.py
+db0dbf72c503cafbecd061e042ebe64da62ad422161d4addbd7b65c3a1e6186a *qa/PROPOSED_runbook_9c.md
+# block 22 (2026-11-13T14:02:57Z); pre-fit state pinned by the gate holder before the single fit: executor's checklist (carries the OUT/core_record tree hash, executor-computed), agreement outputs, timeout summary; step-5 sample and a15 passes ran with a 10 GB host lease after a 16 GB refusal (lease only; container limits unchanged); A13 alias secondary not yet run; append-only
+9744d631412fcbe9e03210d07ed85d9a835d4debc7e3a170be2f552595ccda55 *qa/PREFIT_CHECKLIST.md
+7cd445dcf7e35b2bdcb1b5180c2603a13fb5bce9a1c5c1dfc9d3718782e92419 *qa/AGREEMENT.json
+de2212a15b858d0a15a79f3c8d9b040b5e76969c014643a6b83761f6dd2847fc *qa/A15_AGREEMENT.json
+d4cca4b1ef92686a9b8c928d94e5440f11e9bd4e2b396016417632ee257b3737 *qa/timeout_result/timeout_summary.json
+4759d5f14b97fac343003a4e9661f5c5d5e1df4bff24bea60789ca7503580c17 *qa/step5_chain_b.sh
+# block 22b (2026-11-13T14:03:05Z); publish/package.py had no earlier pin; pinned as found before the single fit (it signs and verifies the dataset; it computes no statistic); append-only
+e134ecd5951877671fea56923bbe7606437445069f776e262ee8161bdc0153b6 *publish/package.py
+# block 23 (2026-11-13T14:07:00Z); farm figure qa/REBUILD_REASONS.json pinned before the single fit (publish/_core absent at this time); runbook step 9 reading recorded: HL_A15_SENSITIVITY and HL_FULL_DIR unset for the fit pass (their files do not exist before the fit), all other exports as written; no rule change; append-only
+10b52ac212bbed242da612f47959280e7935467056dfe58fb9fb7121497a8b5a *qa/REBUILD_REASONS.json
+# block 24 (2026-11-13T14:30:04Z); the single fit has run (build.sh once, run_mode REAL); outputs pinned as produced; A13 secondary and A18 probe not yet run; append-only
+0a2ee515e529734df476a74a6d15d71c65869ed48ca865b2f07495dd309bfa14 *publish/_core/fit.json
+8fbe216a16a06bd52f508416129adc0c115e1e537b8e27e2984c4448484029d3 *publish/_core/RUN_LOG.md
+687e1b345642aa79d174a6de11a7774481711e4b6e0417fc17e933a5c0ff72b8 *publish/_core/dataset/MANIFEST.sha256
+f294b9750a443d5fdf6b66f5ae94aef41ea116785211e6af9322e057c4d6b443 *qa/A15_SENSITIVITY.json
+e5f2892b1570f63d4c7aaf3ad5314cd2e1247a43f3ef69e06785af7e1d620599 *qa/A22_EOL.json
+b0f06e2c98fb11e123cbee532c83239795bf10348c4eb1ff5d615b59e3b0f9b0 *analysis/out/archive_loss_rows.jsonl
+# block 25 (2026-11-13T14:32:54Z); A18 probe outputs (one pass, after the fit), plain results sheet and site leak-check proposal pinned as produced; append-only
+a9b452474e3848efcdb063da470864b6bc9523fd52800e5fa21a56d482b96fc1 *analysis/out/archive_probe/probe_rows.jsonl
+85a0ceb446bdc9313acd7d04ec9bdfb1ab2a8f9e3e14521ed14bfe6b5700735d *analysis/out/archive_probe/responses.jsonl
+3d4477a6f91178a7958a6e5aae241bc64c29cd1991e502cc8b19cfca925b58dc *publish/RESULTS_PLAIN.md
+4116cc9784f20da24dcbd3c2c25a35ccdc857d7a110baa351b11cf09a9ee229e *site/PROPOSED_leak_check_fix.md
+# block 26 (2026-11-13T14:38:18Z); after the fit: site/gen.py leak-check fix (release drops log_tail; first pin of gen.py, pre-fix copy kept), A18 summary by snapshot, EXPLORATORY post-hoc age-pattern tables pinned as produced; append-only
+d156be90b39fec6d6d70fe33b6c45283bd626e03f9db322595b50e08f554192f *site/gen.py
+c3a370fdb23e16f6bba3d828584d476601416d24b796832fa4bcfa8930558996 *site/tests/test_gen.py
+f808ab512a97a57e9cddc09dd9adadcfb1ba92e593a24acd67349e6814384bde *site/gen.py.block25
+7ddfadb57ad380aa61c73e22545d4adb64dc5a289d9a98b1574b6a0b3fd25d68 *publish/A18_SUMMARY_by_snapshot.txt
+a127d2476a242b5c7bd90a86060b35f8d42d134a752e3fa8712bab8ed3857f9a *publish/EXPLORATORY_age_patterns.md
+cd4f7c405985c782201a3ea2a6ed7df7023b46e7e3b40e9822b3a9fc474bac6f *publish/exploratory/p2_classes.txt
+fdd2fc3dd8b9a760a18bd91ab4c572262c1cb63a33fa957b6fd5221c017b721f *publish/exploratory/p2_node.txt
+# block 27 (2026-11-13T14:40:50Z); proposed paper text after the fit, as received from the executing session; NOT reviewed, NOT approved for release; append-only
+7f5144f53a34284e03e735668571a8f8dfc6e67d6497e8926a013a827ce2873c *publish/paper_v2_PROPOSED.md
+# block 28 (2026-11-15T09:43:47Z); paper v4 proposed text as received after the gate holder's fix list (NOT approved; independent number check pending), post-hoc H3 composition files (EXPLORATORY), recipe rev 3 draft (not an amendment); append-only
+2c0e456bb7f63d9aff60422fea3c8d7e593a06ea1d9da6d71ecbabf2d99a40c8 *publish/paper_v4_PROPOSED.md
+e228a574a78339fded5ded266b7cc75875b5fe5b9f12d3cb841da320a2941ac8 *publish/NUMBER_SOURCES_v4.md
+5a5bb27fc50a69d99f59796be5d6fd673dc3655c96fde748fd6bc70c6cf50913 *publish/exploratory/h3_composition.py
+6ba255a26d44c755c4467cf9f788de1e1d9812a9fa501616d69d8f601bc9bdfe *publish/exploratory/h3_composition.txt
+9049a05cb1bd805405b65081efeeb9e5c0eff8f6b9e93b8a0854c8b18567d931 *publish/exploratory/h3_sensitivity.py
+9dd28e95d11742bef8555d52aad9581a539e69f431adf7afbbfe1025185fbbda *publish/exploratory/h3_sensitivity.txt
+3b4d6e2cb4cc6b37b5c1076d78ac65e43014e0c44ce56fdec5ddd2314d638eda *DRAFT_A24_recipe_rev3.md
+# block 29 (2026-11-15T09:49:29Z); paper v5 proposed text (v4 + four wording edits); numbers of v4 re-derived independently with 0 mismatches (_research/HANDCHECK_paper_v4_20261115.md); gate holder file-level GO on the text; NOT yet released: identity/security review and founder sight of exact text pending; append-only
+0dfa30cf23eaeff220288a4a47ea0fae3112952424e0aa2f0c4e39c12c49e9be *publish/paper_v5_PROPOSED.md
+6bbb53dc7c14ccd9f2dc7110c66cf49fcc2654746c7b6e857affa7cb75952fcb *publish/NUMBER_SOURCES_v5.md
+# block 30 (2026-11-15T14:26:07Z); A24 H3 marker measurement error (human co-author named Devin) reported beside the unchanged frozen verdict; append-only
+91cab9f4c3c360b41dd204454c53ca6864a434788c134a75b65c3d082bbfe23d *PREREG_AMENDMENTS.md
+86c5fb606b74cbe827af91b4880e6b22773e785ff1738f98ff8fa6649a5c67f0 *markers/ai_marker.jsonl
+# block 31 (2026-11-15T14:30:05Z); paper v6 (A24 correction; status + amendments heading fixed by gate holder), ship copy with byline, package plan, redacted marker copy, filled methods page; NOT released: package re-review + founder sight of the A24 wording pending; append-only
+ca7a65b6ba7684f9ba7bcb77664696a9af4f05fa6b6ab1d304a31680c61eac63 *publish/paper_v6_PROPOSED.md
+b79bdbbcef10653c2436fbf66f54503ae041ea12e5e8f7eefa5c52d178fbd60b *publish/ship/paper.md
+ed4cbee2bdfd2b4888396109e5514b368639aaae2a5382d1a4ebff2991e8a76f *publish/PACKAGE_PLAN.md
+d446e38b7294cbcb620314d9c23a68030615a1e5c267569607302e0f996fcfe4 *publish/ship/markers/ai_marker.jsonl
+74b6549c19dae15a92899a624b1a2cb86ac31c1102ff190bcd601acd9bdc950d *site/_core/methods.html

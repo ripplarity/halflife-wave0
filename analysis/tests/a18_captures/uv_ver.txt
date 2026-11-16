@@ -1,0 +1,7 @@
+Using Python 3.14.2 environment at: <path>
+  × No solution found when resolving dependencies:
+  ╰─▶ Because there is no version of requests==0.0.999 and you require
+      requests==0.0.999, we can conclude that your requirements are
+      unsatisfiable.
+
+hint: `requests` was found on https://pkgs.safetycli.com/repository/public/pypi/simple/, but not at the requested version (requests==0.0.999). A compatible version may be available on a subsequent index (e.g., https://pypi.org/simple). By default, uv will only consider versions that are published on the first index that contains a given package, to avoid dependency confusion attacks. If all indexes are equally trusted, use `--index-strategy unsafe-best-match` to consider all versions from all indexes, regardless of the order in which they were defined.

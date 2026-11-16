@@ -1,0 +1,1 @@
+{"build_step_messages": 9, "faults": [{"C1": true, "C2": true, "C3": true, "C4": true, "C5": true, "receipt": "hydra-ecosystem__hydra__fdd1cbb80369222e9e132f107456a9c8af1842cb__NOW.json", "verdict": "UPSTREAM-TRANSIENT"}], "stop_windows": []}

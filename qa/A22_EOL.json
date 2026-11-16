@@ -1,0 +1,347 @@
+{
+ "A22_ERA_rule": "UNDERPOWERED",
+ "ERA": {
+  "ecosystems": {
+   "go": {
+    "arm_n_contributing": {
+     "exposed": 0,
+     "not_exposed": 0
+    },
+    "excluded_toolchain_eol": {
+     "EXPOSED": 0,
+     "NOT-EXPOSED": 0,
+     "other": 268
+    },
+    "mh": null,
+    "powered": false,
+    "sensitivity": {
+     "hi": 1.0,
+     "k": 152,
+     "lo": 0.9760231790962084,
+     "n": 152,
+     "p": 1.0
+    },
+    "specificity": {
+     "hi": 0.01057446952574199,
+     "k": 0,
+     "lo": 0.0,
+     "n": 347,
+     "p": 0.0
+    },
+    "status_counts": {
+     "EXPOSED": 499,
+     "UNDECLARED": 401
+    },
+    "strata_dropped": [
+     2018,
+     2019,
+     2020,
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "strata_used": 0,
+    "success_share_exposed": {
+     "hi": 0.7355135446593508,
+     "k": 347,
+     "lo": 0.652934626052681,
+     "n": 499,
+     "p": 0.6953907815631263
+    },
+    "unstratified_newcombe": null
+   },
+   "node": {
+    "arm_n_contributing": {
+     "exposed": 39,
+     "not_exposed": 9
+    },
+    "excluded_toolchain_eol": {
+     "EXPOSED": 0,
+     "NOT-EXPOSED": 0,
+     "other": 0
+    },
+    "mh": {
+     "hi": 0.13099439633411417,
+     "lo": -0.40914009169835264,
+     "rd": -0.13907284768211922,
+     "se": 0.1377919421716365
+    },
+    "powered": false,
+    "sensitivity": {
+     "hi": 0.9776030034433255,
+     "k": 148,
+     "lo": 0.9014562548318532,
+     "n": 156,
+     "p": 0.9487179487179487
+    },
+    "specificity": {
+     "hi": 0.0720634972431675,
+     "k": 1,
+     "lo": 0.00033751380252114845,
+     "n": 75,
+     "p": 0.013333333333333334
+    },
+    "status_counts": {
+     "EXPOSED": 222,
+     "NOT-EXPOSED": 9,
+     "UNDECLARED": 669
+    },
+    "strata_dropped": [
+     2013,
+     2014,
+     2015,
+     2016,
+     2017,
+     2018,
+     2019,
+     2020,
+     2021,
+     2022
+    ],
+    "strata_used": 2,
+    "success_share_exposed": {
+     "hi": 0.3995129181768806,
+     "k": 74,
+     "lo": 0.2716746697160422,
+     "n": 222,
+     "p": 0.3333333333333333
+    },
+    "unstratified_newcombe": {
+     "hi": 0.10694465800756314,
+     "lo": -0.33387372228393897,
+     "rd": -0.2222222222222222
+    }
+   },
+   "python": {
+    "arm_n_contributing": {
+     "exposed": 44,
+     "not_exposed": 14
+    },
+    "excluded_toolchain_eol": {
+     "EXPOSED": 0,
+     "NOT-EXPOSED": 0,
+     "other": 0
+    },
+    "mh": {
+     "hi": 0.1957561430702659,
+     "lo": -0.3348032689117988,
+     "rd": -0.06952356292076643,
+     "se": 0.13534927584564044
+    },
+    "powered": false,
+    "sensitivity": {
+     "hi": 0.9504715447438226,
+     "k": 29,
+     "lo": 0.6894342696048746,
+     "n": 34,
+     "p": 0.8529411764705882
+    },
+    "specificity": {
+     "hi": 0.3681156339319763,
+     "k": 9,
+     "lo": 0.10295964989721891,
+     "n": 42,
+     "p": 0.21428571428571427
+    },
+    "status_counts": {
+     "EXPOSED": 62,
+     "NOT-EXPOSED": 14,
+     "UNDECLARED": 824
+    },
+    "strata_dropped": [
+     2019,
+     2020,
+     2021,
+     2022
+    ],
+    "strata_used": 2,
+    "success_share_exposed": {
+     "hi": 0.6601734121625106,
+     "k": 33,
+     "lo": 0.4011589686735288,
+     "n": 62,
+     "p": 0.532258064516129
+    },
+    "unstratified_newcombe": {
+     "hi": 0.3397367334569281,
+     "lo": -0.17084773460285207,
+     "rd": 0.1105990783410139
+    }
+   }
+  },
+  "share_of_failures_exposed": {
+   "hi": 0.29362901102999883,
+   "k": 329,
+   "lo": 0.24331795241945633,
+   "n": 1228,
+   "p": 0.2679153094462541
+  }
+ },
+ "NOW": {
+  "ecosystems": {
+   "go": {
+    "arm_n_contributing": {
+     "exposed": 367,
+     "not_exposed": 426
+    },
+    "excluded_toolchain_eol": {
+     "EXPOSED": 0,
+     "NOT-EXPOSED": 0,
+     "other": 40
+    },
+    "mh": {
+     "hi": 0.03182067150829902,
+     "lo": -0.08222679307056617,
+     "rd": -0.025203060781133577,
+     "se": 0.029094275578137416
+    },
+    "powered": true,
+    "sensitivity": {
+     "hi": 0.5059237039053548,
+     "k": 69,
+     "lo": 0.34868886107091984,
+     "n": 162,
+     "p": 0.42592592592592593
+    },
+    "specificity": {
+     "hi": 0.5672701222941264,
+     "k": 333,
+     "lo": 0.4879367768978159,
+     "n": 631,
+     "p": 0.5277337559429477
+    },
+    "status_counts": {
+     "EXPOSED": 367,
+     "NOT-EXPOSED": 426,
+     "UNDECLARED": 107
+    },
+    "strata_dropped": [],
+    "strata_used": 12,
+    "success_share_exposed": {
+     "hi": 0.8506690796759255,
+     "k": 298,
+     "lo": 0.7681905631817074,
+     "n": 367,
+     "p": 0.8119891008174387
+    },
+    "unstratified_newcombe": {
+     "hi": 0.02627759663405914,
+     "lo": -0.08578950244786283,
+     "rd": -0.03029895997236831
+    }
+   },
+   "node": {
+    "arm_n_contributing": {
+     "exposed": 161,
+     "not_exposed": 206
+    },
+    "excluded_toolchain_eol": {
+     "EXPOSED": 0,
+     "NOT-EXPOSED": 0,
+     "other": 0
+    },
+    "mh": {
+     "hi": -0.030247641795500213,
+     "lo": -0.235193724172525,
+     "rd": -0.1327206829840126,
+     "se": 0.05228312458637335
+    },
+    "powered": true,
+    "sensitivity": {
+     "hi": 0.44043916606900757,
+     "k": 80,
+     "lo": 0.307327220722734,
+     "n": 215,
+     "p": 0.37209302325581395
+    },
+    "specificity": {
+     "hi": 0.5496743480392565,
+     "k": 71,
+     "lo": 0.3858434979838707,
+     "n": 152,
+     "p": 0.46710526315789475
+    },
+    "status_counts": {
+     "EXPOSED": 161,
+     "NOT-EXPOSED": 206,
+     "UNDECLARED": 533
+    },
+    "strata_dropped": [],
+    "strata_used": 12,
+    "success_share_exposed": {
+     "hi": 0.582751810670121,
+     "k": 81,
+     "lo": 0.42334295736289135,
+     "n": 161,
+     "p": 0.5031055900621118
+    },
+    "unstratified_newcombe": {
+     "hi": -0.0566910270246371,
+     "lo": -0.25642345712169623,
+     "rd": -0.15844539588735446
+    }
+   },
+   "python": {
+    "arm_n_contributing": {
+     "exposed": 199,
+     "not_exposed": 159
+    },
+    "excluded_toolchain_eol": {
+     "EXPOSED": 0,
+     "NOT-EXPOSED": 0,
+     "other": 0
+    },
+    "mh": {
+     "hi": -0.018023266832306817,
+     "lo": -0.21838909766079626,
+     "rd": -0.11820618224655154,
+     "se": 0.051114671598292
+    },
+    "powered": true,
+    "sensitivity": {
+     "hi": 0.5666475097941699,
+     "k": 61,
+     "lo": 0.3875864149549102,
+     "n": 128,
+     "p": 0.4765625
+    },
+    "specificity": {
+     "hi": 0.46644087542121193,
+     "k": 92,
+     "lo": 0.3361716601855492,
+     "n": 230,
+     "p": 0.4
+    },
+    "status_counts": {
+     "EXPOSED": 199,
+     "NOT-EXPOSED": 159,
+     "UNDECLARED": 542
+    },
+    "strata_dropped": [],
+    "strata_used": 12,
+    "success_share_exposed": {
+     "hi": 0.7567146177199653,
+     "k": 138,
+     "lo": 0.624349645503131,
+     "n": 199,
+     "p": 0.6934673366834171
+    },
+    "unstratified_newcombe": {
+     "hi": -0.014873442876778636,
+     "lo": -0.2129674991262803,
+     "rd": -0.11485098448215925
+    }
+   }
+  },
+  "share_of_failures_exposed": {
+   "hi": 0.2033862065837781,
+   "k": 210,
+   "lo": 0.15844625512305266,
+   "n": 1166,
+   "p": 0.18010291595197256
+  }
+ },
+ "verdict_NOW_rows": "DOES NOT TRACK",
+ "wording": "builds whose declared runtime floor was past end-of-life"
+}

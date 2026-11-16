@@ -1,0 +1,5 @@
+Using Python 3.14.2 environment at: <path>
+  × No solution found when resolving dependencies:
+  ╰─▶ Because zzqx-not-a-real-pkg-9431 was not found in the package registry
+      and you require zzqx-not-a-real-pkg-9431, we can conclude that your
+      requirements are unsatisfiable.

@@ -1,0 +1,9 @@
+yarn install v1.22.22
+warning package.json: No license field
+info No lockfile found.
+warning t@1.0.0: No license field
+[1/4] Resolving packages...
+(node:72020) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+error Couldn't find any versions for "left-pad" that matches "99.99.99"
+info Visit https://yarnpkg.com/en/docs/cli/install for documentation about this command.

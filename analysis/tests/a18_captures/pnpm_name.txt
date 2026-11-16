@@ -1,0 +1,16 @@
+
+   ╭───────────────────────────────────────────────╮
+   │                                               │
+   │     Update available! 11.21.0 → 12.18.0.      │
+   │     Changelog: https://pnpm.io/v/12.18.0      │
+   │   To update, run: corepack use pnpm@12.18.0   │
+   │                                               │
+   ╰───────────────────────────────────────────────╯
+
+[ERR_PNPM_FETCH_404] GET https://registry.npmjs.org/zzqx-not-a-real-pkg-9431: Not Found - 404
+
+This error happened while installing a direct dependency of <path>
+
+zzqx-not-a-real-pkg-9431 is not in the npm registry, or you have no permission to fetch it.
+
+No authorization header was set for the request.

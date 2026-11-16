@@ -1,0 +1,6 @@
+Looking in indexes: https://pkgs.safetycli.com/repository/public/pypi/simple/
+ERROR: Could not find a version that satisfies the requirement zzqx-not-a-real-pkg-9431 (from versions: none)
+
+[notice] A new release of pip is available: 26.1.1 -> 26.3
+[notice] To update, run: python.exe -m pip install --upgrade pip
+ERROR: No matching distribution found for zzqx-not-a-real-pkg-9431

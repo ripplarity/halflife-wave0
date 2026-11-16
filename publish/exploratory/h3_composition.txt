@@ -1,0 +1,11 @@
+# EXPLORATORY post-hoc; H3 rows (NOW, cohorts 2023-2024, marker key present); built/attempted
+# check: pnpm-defect rows in all receipts ERA 24 NOW 94
+all                marker 174/369  other 115/205
+eco=go             marker 52/70  other 49/74
+eco=node           marker 32/115  other 15/34
+eco=python         marker 48/89  other 22/47
+eco=rust           marker 42/95  other 29/50
+node_pnpm=no       marker 165/318  other 108/192
+node_pnpm=yes      marker 9/51  other 7/13
+pnpm_defect=no     marker 174/350  other 115/204
+pnpm_defect=yes    marker 0/19  other 0/1

@@ -1,0 +1,1 @@
+go: github.com/zzqx-nope/nope-9431@v1.0.0: reading https://proxy.golang.org/github.com/zzqx-nope/nope-9431/@v/v1.0.0.mod: 404 Not Found

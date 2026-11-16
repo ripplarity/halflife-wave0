@@ -1,0 +1,7 @@
+[ERR_PNPM_NO_MATCHING_VERSION] No matching version found for left-pad@99.99.99 while fetching it from https://registry.npmjs.org/
+
+This error happened while installing a direct dependency of <path>
+
+The latest release of left-pad is "1.3.0".
+
+If you need the full list of all 15 published versions run "pnpm view left-pad versions".

@@ -1,0 +1,10 @@
+{
+  "payloadType": "application/vnd.in-toto+json",
+  "payload": "eyJfdHlwZSI6Imh0dHBzOi8vaW4tdG90by5pby9TdGF0ZW1lbnQvdjEiLCJwcmVkaWNhdGUiOnsiYnVpbGRzIjoxNTAsImNlbGwiOnsiZWNvc3lzdGVtIjoicHl0aG9uIiwieWVhciI6MjAxNH0sImVuZGVkIjoiMjAyNi0xMS0xM1QxNDowNzozOFoiLCJlbnZpcm9ubWVudCI6eyJob3N0X29zIjoid2luZG93cyIsInJ1bl9tb2RlIjoiUkVBTCJ9LCJwcm9kdWNlciI6eyJ0b29sIjoiaGFsZmxpZmUtcGFja2FnZSIsInZlcnNpb24iOiIxLjAuMCJ9LCJzdGFydGVkIjoiMjAyNi0xMS0xM1QxNDowNzoyM1oiLCJzdWNjZXNzZXMiOjc5fSwicHJlZGljYXRlVHlwZSI6Imh0dHBzOi8vcmlwcGxhcml0eS5jb20vYXR0ZXN0YXRpb24vaGFsZmxpZmUvcmVjZWlwdC1jZWxsL3YxIiwic3ViamVjdCI6W3siZGlnZXN0Ijp7InNoYTI1NiI6IjY2MmJkNDAxOWI5Mzk5OGFjMGY5MmQzMWYwMGEwNDJiMTk5MTJkNzVkN2ExZjM0YWI1OTQxZTk0MTAzYzdiYjkifSwibmFtZSI6InJlY2VpcHRzLmpzb25sL2Vjb3N5c3RlbT1weXRob24veWVhcj0yMDE0In1dfQ==",
+  "signatures": [
+    {
+      "keyid": "1c8554a8d693dec7a62e73879acf41298629283718302584134b7034a13007f8",
+      "sig": "/yMJLMAZClVH1KNCcRqa08uMbzN0ZbQKJ0TWk0UO9Xjw3bU51IRB0lihaiZ3abn8m59lemZh/rnrj7KSvk6pCQ=="
+    }
+  ]
+}
